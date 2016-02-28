@@ -1,0 +1,28 @@
+_repo: The-Junior-Classics-Volume-4-Heroes-and-heroines-of-chivalry_6323
+contributor:
+  creator:
+    editor:
+      agent_name: Patten, William
+      birthdate: 1868
+      deathdate: 1936
+      gutenberg_agent_id: '1118'
+      url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+tableOfContents: The story of King Arthur -- The Mabinogion -- Tales from early English
+  chronicles -- Tales told by Chaucer's Canterbury pilgrims -- Tales from French and
+  Italian chronicles -- the Spanish chronicle of the Cid -- Tales of Robin Hood --
+  Don Quixote de la Mancha.
+title: 'The Junior Classics — Volume 4: Heroes and heroines of chivalry'
+url: http://www.gutenberg.org/ebooks/6323
