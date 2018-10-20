@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Children''s literature'
+- GITenberg
 tableOfContents: The story of King Arthur -- The Mabinogion -- Tales from early English
   chronicles -- Tales told by Chaucer's Canterbury pilgrims -- Tales from French and
   Italian chronicles -- the Spanish chronicle of the Cid -- Tales of Robin Hood --
